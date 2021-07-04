@@ -1,0 +1,18 @@
+html,body {
+  height:100%;
+  width:100%;
+}
+#container {
+  height:100%;
+  width:100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#data,th,td {
+  align-self: center;
+  border:1px solid;
+  border-collapse: collapse;
+}
+
